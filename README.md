@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,30&height=280&section=header&text=Yelsen%20Gonzales&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20future,%20one%20line%20at%20a%20time&descSize=25&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,30&height=280&section=header&text=Yelsen%20Gonzales&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Construyendo%20el%20futuro,%20una%20línea%20de%20código%20a%20la%20vez&descSize=25&descAlignY=60" width="100%" />
 
   <br/>
 
   <h1>🚀 Full Stack Developer & Cloud Architect</h1>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge&logo=workplace&logoColor=white" />
-    <img src="https://img.shields.io/github/followers/yelsen-gonzales-huaromo?label=Followers&style=for-the-badge&color=24292e" />
-    <img src="https://img.shields.io/badge/Location-Huaraz%2C%20Perú-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Estado-Disponible%20para%20trabajar-green?style=for-the-badge&logo=workplace&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/yelsen-gonzales-huaromo?label=Seguidores&style=for-the-badge&color=24292e" />
+    <img src="https://img.shields.io/badge/Ubicación-Huaraz%2C%20Perú-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
   </p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXphbmphZzR3bmZxcWZwYmNqZDFscGxjOW1xdnh2Z3Z6Nnp6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYp/giphy.gif" width="600" />
@@ -16,7 +16,7 @@
 
 ---
 
-### � Sobre mí
+### 💎 Sobre mí
 
 <table border="0">
   <tr>
@@ -27,7 +27,7 @@
       <ul>
         <li>🎓 Egresado de la <b>Universidad Nacional Santiago Antúnez de Mayolo (UNASAM)</b>.</li>
         <li>💡 Especializado en <b>Arquitecturas Limpias (Clean Architecture)</b> y patrones de diseño.</li>
-        <li>🚀 Comprometido con el aprendizaje continuo en <b>AI, Cloud Computing y DevOps</b>.</li>
+        <li>🚀 Comprometido con el aprendizaje continuo en <b>IA, Cloud Computing y DevOps</b>.</li>
         <li>🏔️ Trabajando desde las montañas de <b>Huaraz</b> para el mundo.</li>
       </ul>
     </td>
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-| | **Proyecto** | **Stack** | **Descripción** |
+| | **Proyecto** | **Tecnologías** | **Descripción** |
 | :---: | :--- | :--- | :--- |
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjRoc2V3ZzY1Y3R4MjB6eGhqdzZ6MjB6Z2pqZWF6Z2pqZWF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="40" /> | **[AI Real-Time Detector](https://github.com/yelsen-gonzales-huaromo/object-detector)** | `FastAPI` `YOLOv11` `Python` | Reconocimiento de objetos en tiempo real con latencia mínima y procesamiento paralelo. |
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjRoc2V3ZzY1Y3R4MjB6eGhqdzZ6MjB6Z2pqZWF6Z2pqZWF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQC1Q7UsC8E/giphy.gif" width="40" /> | **[Sistema Activos UNASAM](https://github.com/yelsen-gonzales-huaromo/sistema-activos)** | `Laravel` `MySQL` `PHP` | Gestión integral de inventario tecnológico para facultades universitarias. |
@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yelsen-gonzales-huaromo/yelsen-gonzales-huaromo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/yelsen-gonzales-huaromo/yelsen-gonzales-huaromo/output/github-contribution-grid-snake-dark.svg" alt="Animación de serpiente" width="100%" />
 </div>
 
 ---
@@ -99,20 +99,25 @@
 
 ---
 
-### � Conectemos
+### 📫 ¡Hablemos!
 
-<p align="center">
-  <a href="https://linkedin.com/in/yelsen">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://wa.me/519XXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://linkedin.com/in/yelsen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:g.hyelsen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/yelsen-gonzales-huaromo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/yelsen-gonzales-huaromo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yelsen-gonzales-huaromo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=yelsen-gonzales-huaromo&color=blueviolet&style=for-the-badge&label=VISTAS+DEL+PERFIL" />
 </p>
