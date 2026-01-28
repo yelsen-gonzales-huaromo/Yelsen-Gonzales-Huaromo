@@ -1,134 +1,118 @@
-# ¡Hola, soy Yelsen Gonzales Huaromo! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=300&section=header&text=Full%20Stack%20%26%20Cloud%20Architect&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Building%20scalable%20%26%20innovative%20digital%20solutions&descSize=20&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,30&height=280&section=header&text=Yelsen%20Gonzales&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20future,%20one%20line%20at%20a%20time&descSize=25&descAlignY=60" width="100%" />
+
+  <br/>
+
+  <h1>🚀 Full Stack Developer & Cloud Architect</h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge&logo=workplace&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/yelsen-gonzales-huaromo?label=Followers&style=for-the-badge&color=24292e" />
+    <img src="https://img.shields.io/badge/Location-Huaraz%2C%20Perú-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </p>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXphbmphZzR3bmZxcWZwYmNqZDFscGxjOW1xdnh2Z3Z6Nnp6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYp/giphy.gif" width="600" />
 </div>
 
 ---
 
-### 💫 Sobre mí
+### � Sobre mí
 
-Soy **Ingeniero de Sistemas e Informática** egresado de la **Universidad Nacional Santiago Antúnez de Mayolo (UNASAM)**, apasionado por la arquitectura de software y la resolución de problemas complejos. Mi enfoque se centra en crear experiencias digitales excepcionales combinando **estética premium, rendimiento optimizado y escalabilidad cloud**.
-
-- 🔭 **Proyectos Actuales:** Desarrollo de sistemas de gestión empresarial e integración de Inteligencia Artificial.
-- 🚀 **Especialidad:** Arquitecturas Web (React/Next.js), Backend Robusto (.NET/Node/Python) y Cloud Computing.
-- 🏔️ **Ubicación:** Huaraz, Áncash, Perú.
-- ⚡ **Dato curioso:** Me encanta la optimización constante, tanto en el código como en la vida diaria.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<details open>
-  <summary><b>🚀 Core Technologies</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>💻 Frontend & UI/UX</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>⚙️ Backend & Architecture</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>☁️ Cloud, DevOps & AI</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLO_AI-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </p>
-</details>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>
+        Soy un <b>Ingeniero de Sistemas e Informática</b> apasionado por la creación de soluciones digitales de alto impacto. Mi enfoque combina la robustez de la arquitectura backend con la elegancia y velocidad de los frontends modernos.
+      </p>
+      <ul>
+        <li>🎓 Egresado de la <b>Universidad Nacional Santiago Antúnez de Mayolo (UNASAM)</b>.</li>
+        <li>💡 Especializado en <b>Arquitecturas Limpias (Clean Architecture)</b> y patrones de diseño.</li>
+        <li>🚀 Comprometido con el aprendizaje continuo en <b>AI, Cloud Computing y DevOps</b>.</li>
+        <li>🏔️ Trabajando desde las montañas de <b>Huaraz</b> para el mundo.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="unasam.jpeg" width="250" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📂 Proyectos Destacados
+### 🛠️ Ecosistema Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,php,html,css&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,laravel,fastapi,express&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,git&perline=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelsen-gonzales-huaromo&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180px" />
+</div>
+
+---
+
+### 📂 Proyectos de Alto Impacto
 
 <div align="center">
 
-| 📋 Proyecto | 🚀 Stack | 📝 Descripción |
-| :--- | :--- | :--- |
-| **[AI Real-Time Detector](https://github.com/yelsen/object-detector)** | `Python`, `YOLOv11`, `FastAPI` | Sistema de detección de objetos en tiempo real con UI premium y procesamiento multihilo. |
-| **[Sistema de Gestión UNASAM](https://github.com/yelsen/sistema-activos)** | `PHP/Laravel`, `MySQL` | Herramienta integral para el control de activos tecnológicos universitaria. |
-| **[TinderSwipe MVC](https://github.com/yelsen/TinderSwipe)** | `C#`, `ASP.NET MVC` | Clon interactivo con lógica de emparejamiento y gestión de perfiles. |
-| **[Cajero Automático MVC](https://github.com/yelsen/CajeroMVC)** | `C#`, `.NET Core` | Simulación bancaria completa con arquitectura MVC y persistencia de datos. |
+| | **Proyecto** | **Stack** | **Descripción** |
+| :---: | :--- | :--- | :--- |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjRoc2V3ZzY1Y3R4MjB6eGhqdzZ6MjB6Z2pqZWF6Z2pqZWF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="40" /> | **[AI Real-Time Detector](https://github.com/yelsen-gonzales-huaromo/object-detector)** | `FastAPI` `YOLOv11` `Python` | Reconocimiento de objetos en tiempo real con latencia mínima y procesamiento paralelo. |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjRoc2V3ZzY1Y3R4MjB6eGhqdzZ6MjB6Z2pqZWF6Z2pqZWF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQC1Q7UsC8E/giphy.gif" width="40" /> | **[Sistema Activos UNASAM](https://github.com/yelsen-gonzales-huaromo/sistema-activos)** | `Laravel` `MySQL` `PHP` | Gestión integral de inventario tecnológico para facultades universitarias. |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjRoc2V3ZzY1Y3R4MjB6eGhqdzZ6MjB6Z2pqZWF6Z2pqZWF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lM8A5pBAq7McmY/giphy.gif" width="40" /> | **[TinderSwipe MVC](https://github.com/yelsen-gonzales-huaromo/TinderSwipe)** | `ASP.NET MVC` `C#` `SQL` | Algoritmos de matching dinámico y UI interactiva para dating apps. |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjRoc2V3ZzY1Y3R4MjB6eGhqdzZ6MjB6Z2pqZWF6Z2pqZWF6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="40" /> | **[Cajero Automático](https://github.com/yelsen-gonzales-huaromo/CajeroMVC)** | `.NET Core` `C#` `ADO.NET` | Simulación bancaria de alta fidelidad con gestión de transacciones atómicas. |
 
 </div>
 
 ---
 
-### � GitHub Analytics
+### 📊 Análisis de Productividad
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yelsen-gonzales-huaromo&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelsen-gonzales-huaromo&theme=vision-friendly-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffaa00&currStreakNum=c9d1d9" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yelsen-gonzales-huaromo/yelsen-gonzales-huaromo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+### ⛰️ Inspiración de los Andes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yelsen&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelsen&theme=radical&hide_border=true" width="48%" />
+  <em>"La tecnología no tiene límites cuando la visión es tan alta como las montañas que me rodean."</em>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelsen&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### �️ Desde el corazón de los Andes
 
 <div align="center">
-  <img src="laguna.jpg" alt="Huaraz - Paraíso Natural" width="600" style="border-radius: 15px;" />
+  <img src="laguna.jpg" width="800" style="border-radius: 15px;" />
   <br/>
-  <i>"Trabajando desde Huaraz, el corazón de la Cordillera Blanca, integrando tecnología con visión global."</i>
+  <sub>Huaraz, la Capital del Trekking - Mi lugar de trabajo e inspiración.</sub>
 </div>
 
 ---
 
-### 🔗 Contacto & Redes
+### � Conectemos
 
 <p align="center">
   <a href="https://linkedin.com/in/yelsen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/yelsen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:g.hyelsen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://punto.digital.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://github.com/yelsen-gonzales-huaromo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating commits" width="100%" />
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yelsen&color=0077B5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yelsen-gonzales-huaromo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
